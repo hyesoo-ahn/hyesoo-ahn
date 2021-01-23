@@ -25,10 +25,8 @@
 
 
 ### Articles
-- [이런 개발자가 되고 싶다](https://velog.io/@taehyunkim/%EC%9D%B4%EB%9F%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0%EC%8B%B6%EB%8B%A4)
-- [기업 인턴십 후기](https://velog.io/@taehyunkim/%EC%9C%84%ED%8B%B0-%EA%B8%B0%EC%97%85%ED%98%91%EC%97%85-%ED%9B%84%EA%B8%B0)
-- [2.9CM 프로젝트 후기](https://velog.io/@taehyunkim/2.9CM-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
-- [갓챠피디아 프로젝트 후기](https://velog.io/@taehyunkim/%EA%B0%93%EC%B1%A0%ED%94%BC%EB%94%94%EC%95%84-%ED%94%84%EB%A1%9C%EC%A0%9D%ED%8A%B8-%ED%9B%84%EA%B8%B0)
+- [기업 인턴십 후기](https://velog.io/@gptn719/WeCode-%EA%B8%B0%EC%97%85%ED%98%91%EC%97%85-%ED%9B%84%EA%B8%B0)
+- [O9O9 프로젝트 후기](https://velog.io/@gptn719/React-G9-Clone-Project-O9O9-%ED%9B%84%EA%B8%B0)
 <p>
 <br />
 <br />
