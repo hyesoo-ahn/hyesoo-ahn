@@ -23,10 +23,6 @@
 <a href="mailto:ahnhs719@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a></a>
 </p>
 
-### Project Videos
-- [[React Native] Delivery App Clone Project](https://www.youtube.com/watch?v=ZEJkyEPUxqU)
-- [[React] 29CM Clone Project](https://www.youtube.com/watch?v=ZEJkyEPUxqU)
-- [[React] WatchaPedia Clone Project](https://www.youtube.com/watch?v=ZEJkyEPUxqU)
 
 ### Articles
 - [이런 개발자가 되고 싶다](https://velog.io/@taehyunkim/%EC%9D%B4%EB%9F%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0%EC%8B%B6%EB%8B%A4)
@@ -38,6 +34,6 @@
 <br />
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)             
-<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pepekim" />
-![Pepekim's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=pepekim&show_icons=true&layout=compact&hide_border=true)
+<img align="left" alt="arnabdeypolimi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hyesoo-ahn" />
+![hyesoo-ahn's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=hyesoo-ahn&show_icons=true&layout=compact&hide_border=true)
 </p>
