@@ -27,6 +27,7 @@
 - [[React Native] Delivery App Clone Project](https://www.youtube.com/watch?v=ZEJkyEPUxqU)
 - [[React] 29CM Clone Project](https://www.youtube.com/watch?v=ZEJkyEPUxqU)
 - [[React] WatchaPedia Clone Project](https://www.youtube.com/watch?v=ZEJkyEPUxqU)
+
 ### Articles
 - [이런 개발자가 되고 싶다](https://velog.io/@taehyunkim/%EC%9D%B4%EB%9F%B0-%EA%B0%9C%EB%B0%9C%EC%9E%90%EA%B0%80-%EB%90%98%EA%B3%A0%EC%8B%B6%EB%8B%A4)
 - [기업 인턴십 후기](https://velog.io/@taehyunkim/%EC%9C%84%ED%8B%B0-%EA%B8%B0%EC%97%85%ED%98%91%EC%97%85-%ED%9B%84%EA%B8%B0)
